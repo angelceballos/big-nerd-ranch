@@ -1,11 +1,9 @@
+### Overview
 I recommend giving the lessons and challenges a try first before search for the answers. You can find more information about [Big Ranch Nerd](http://www.bignerdranch.com/).
 
 ### Status
 Currently lessons and challenges up to Chapter 11
 
-Project File
-Chapter 1: No project files created
-Chapter 2: AGoodStart
 
 | Chapters        | Project Name           
 | ------------- |:-------------:
