@@ -1,8 +1,9 @@
 ### Overview
-I recommend giving the lessons and challenges a try first before search for the answers. You can find more information about [Big Ranch Nerd](http://www.bignerdranch.com/).
+I recommend giving the lessons and challenges a try first before searching for the answers. 
+You can find more information about [Big Ranch Nerd](http://www.bignerdranch.com/).
 
 ### Status
-Currently lessons and challenges up to Chapter 11
+Currently completed lessons and challenges up to Chapter 11
 
 
 | Chapters        | Project Name           
